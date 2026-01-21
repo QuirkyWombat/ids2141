@@ -39,7 +39,7 @@
 
 *Course Work Links:*
 
-* [Journals Folder](/journals/ "rorschach's journal")
+* [Rorschach's Journal](/journals/ "rorschach's journal")
 
 
 
