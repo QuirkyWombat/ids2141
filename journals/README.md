@@ -4,7 +4,7 @@
 
 *Journal Entry Portal*
 
-- [Introduction Journal](/journal_introduction/README.md "Introduction Journal")
+- [Introduction Journal](../journals/journal_introduction/README.md "Introduction Journal")
 
 
 
