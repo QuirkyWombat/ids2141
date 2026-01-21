@@ -1,33 +1,47 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# LIS3781 Advanced Database Management
+# IDS2141
 
 ## Elias Latimer
 
-### Course LIS 3781 Requirements:
+### Course IDS2141 Requirements:
+> COURSE ASSIGNMENTS:
+>
+> Please see the detailed assignment descriptions on the course website; the list on the following page is provided for quick reference 
+> All assignments in this course will take the form of a journal entry, with the exception of any marked with a * below.
+
+> -Introductions
+> -App working
+> -Teamwork
+> -App inventor*
+> -Scavenger hunt*
+> -Audio recording
+> -Tinkercad
+> -Freecad
+> -Fusion360
+> -Fabricating p1
+> -Fabricating p2
+> -Fabricating p3
+> -VR world
+ 
+> GRADE CALCULATION:
+
+> Participation 20%
+
+> Journals 20%
+
+> 3D modeling unit 25%
+
+> App inventor unit 15%
+
+> Final submissions 20%
+
 
 *Course Work Links:*
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - 
+* [Journals Folder](/journals/ "rorschach's journal")
 
-2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - 
 
-3. [A3 README.md](a3/README.md  "My A3 README.md file")
-    -
-
-4. [P1 README.md](p1/README.md "My P1 README.md file")
-    -
-
-5. [A4 README.md](a4/README.md  "My A4 README.md file")
-    
-
-6. [A5 README.md](a5/README.md  "My A5 README.md file")
-    - 
-
-7. [P2 README.md](p2/README.md  "My P2 README.md file")
-    - 
 
 
     
