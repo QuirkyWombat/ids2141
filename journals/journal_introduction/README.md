@@ -13,7 +13,8 @@ Elias aspires to work in a cutting-edge technology and cybersecurity role that c
 
 Now that the formalities are out of the way, the real "me" begins. <br>
 Hi, I am THE Elias Latimer, I love learning new things, reading literature (boring books by *boring* people like Kurt Vonnegut, Dostoyevsky, and Albert Camus), and generally being outside moving around whether that be in nature or playing intermural flag football with my friends. I am conflicted between choosing industry or academia because both seem equalling appealling and unfulfilling.
-<br>Below is a photo with, what I believe to be, the best sandwhich ever from my December trip to Boston/Rhode Island.
+
+<br>Below is a photo with, what I believe to be, the best sandwhich ever from my December 2025 trip to Boston/Rhode Island with my partner.
 
 <p align="center">
   <img src="../../imgs/bestSubPhoto.jpg" alt="Me With Best Sandwich" width="250">
