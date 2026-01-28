@@ -1,15 +1,19 @@
 # Journal Number 2
 
-*‘My name is Ozymandias, king of kings:
-Look on my works, ye Mighty, and despair!’
-Nothing beside remains. Round the decay
-Of that colossal wreck, boundless and bare
-The lone and level sands stretch far away.” *
-<br>
-- Percy Bysshe Shelley
+ _‘My name is Ozymandias, king of kings:_
+ _Look on my works, ye Mighty, and despair!’_
+_Nothing beside remains. Round the decay_
+_Of that colossal wreck, boundless and bare_
+_The lone and level sands stretch far away. - Percy Bysshe Shelley_
 <br>
 
-In this journal entry, I chose to not use appinventor by MIT/Google and instead chose the also *well-loved* Android Studio Code also developed by Google... I made a simple app that displays an image, some text, and a button that when clicked changes the text displayed on the button. I wanted to add audio on button click,as well as, having the text change back and forth between the two states, but got tired so instead I settled for the simple one click text change.
+<br>
+
+In this journal entry, I chose to not use appinventor by MIT/Google and instead chose to use, the also *well-loved*, Android Studio Code also developed by Google... I made a simple app that displays an image, some text, and a button that when clicked changes the text displayed on the button. I wanted to add audio on button click,as well as, having the text change back and forth between the two states, but got tired so instead I settled for the simple one click text change.
+<br>
+
+[ZIP file for App](../journal_app/i_love_lucas.zip)
+[MainActivity.java](C:\Users\elias\myWebProject\tomcat\webapps\ids2141\journals\journal_app\i_love_lucas.zip\i_love_lucas\app\src\main\java\com\example\i_love_lucas\MainActivity.java)
 <br>
 
 ### Scrolling Video of Android Studio Emulated App
@@ -17,9 +21,7 @@ In this journal entry, I chose to not use appinventor by MIT/Google and instead 
 
 <br>
 
-<p align="center">
-  <img src="../../imgs/lucas_love_hate_app.png" alt="Front Screen" width="250">
-</p>
+
 
 
 

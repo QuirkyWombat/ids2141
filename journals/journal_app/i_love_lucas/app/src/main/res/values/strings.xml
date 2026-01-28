@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">i_love_lucas</string>
+    <string name="hello_lucas">Hello Lucas!</string>
+    <string name="love_lucas">I Love Lucas</string>
+    <string name="hate_lucas">I Hate Lucas</string>
+    <string name="app_icon_description">APP ICON IMG</string>
+    <string name="lucashead">Lucas Head</string>
+    <string name="love_button">I Love you</string>
+    <string name="hate_button">I Hate you</string>
+</resources>
