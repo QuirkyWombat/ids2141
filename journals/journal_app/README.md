@@ -13,7 +13,7 @@ In this journal entry, I chose to not use appinventor by MIT/Google and instead 
 <br>
 
 [ZIP file for App](../journal_app/i_love_lucas.zip)
-[MainActivity.java](C:\Users\elias\myWebProject\tomcat\webapps\ids2141\journals\journal_app\i_love_lucas.zip\i_love_lucas\app\src\main\java\com\example\i_love_lucas\MainActivity.java)
+[APP File](../journal_app/i_love_lucas/app/src/main/java/com/example/i_love_lucas/MainActivity.java)
 <br>
 
 ### Scrolling Video of Android Studio Emulated App
