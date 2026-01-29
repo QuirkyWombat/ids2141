@@ -16,6 +16,7 @@ In this journal entry, I chose to not use appinventor by MIT/Google and instead 
 ![App Video](../../imgs/app_love_hate_video.gif "Scrolling Video of App")
 
 ##### ZIP File & Main Activity Java File
+###### Download & Hopefully it works on your machine I have not tested the package
 [ZIP file for WHOLE APP](../journal_app/i_love_lucas.zip)
 
 <br>
