@@ -18,6 +18,9 @@ In this journal entry, I chose to not use appinventor by MIT/Google and instead 
 ##### ZIP File & Main Activity Java File
 ###### Download & Hopefully it works on your machine I have not tested the package
 [ZIP file for WHOLE APP](../journal_app/i_love_lucas.zip)
+<br>
+
+[APP Debug APK](../journal_app/app-debug.apk)
 
 <br>
 
