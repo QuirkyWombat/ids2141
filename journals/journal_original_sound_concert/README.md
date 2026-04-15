@@ -2,25 +2,22 @@
 
 <br>
 
-Simple explanation - I am making a two tiered soap holder capable of holding and draining solid hand soap (more fun, and better for the environment), and also a base plate for my liquid soap holder. Problem begins with my cork soap holder, which served as my solid soap holder, fell apart after years of use. I think the plastic being pourous will help with evaporation and does not serve any health risk that is any better or worse than my previous cork soap holder, which was, a bacteria breeding ground. Some issues of top heavy weight will be offset with my solid soap holder, and seepage can be fixed with proper infill or layer thickness.
+I have completed the final sound assignment and I am truely delighted to share with you! Please let me know any feedback you have for me. I understand I need a LOT of work, consistent breathing, embouchure, spit regulation, and overall talent needs to be refined, but without further ado, enjoy!
 
-### Video & Initial SketchBelow -
 
-![VIDEO](../../imgs/video_with_sound.mov)
+### WAV file and Images of my Venova Below! 
 
-<br>
-
-| Initial Sketch |
-|:----------:|
-| ![Basic Image](../../imgs/soap_holder_sketch.png) |
+[LINK TO WAV](../journal_original_sound_concert/ids2141_original_sound.wav "Link to file")
 
 <br>
 
+| Venova In Case | Venova Out of Case |
+|:----------:|:----------:|
+| ![Venova case](../journal_original_sound_concert/IMG_0566.jpeg) |![Venova](../journal_original_sound_concert/IMG_0567.jpeg) |
 
-I am thinking of ways to theme the soap holder. My initial thoughts are to make leaves and the solid soap holder will be a droopy leaf and the base a flower, but I am unsure how complex that will be in practice!
+<br>
 
-
-Thank you for coming I hope you enjoyed my novel idea!
+As you could hopefully tell, I am not a professional or novice or even beginner musician, but am something a tad bit worse.
 
 
 # THANK YOU
