@@ -10,13 +10,16 @@ As I write this, the AI embedded in my editor suggested to add a hole in the ste
 
 ### Screenshots Below -
 
-| Solid Soap Basin |
+
+| Solid Soap Basin | Solid Soap Basin Side View |
 |:----------:|:----------:|
 | ![Solid soap holder from top](../../imgs/top_of_solid_soap_basin.png) |![Solid soap holder from side](../../imgs/side_of_solid_soap_basin.png) |
 
 
 
 <br>
+
+
 
 | Liquid Soap Stem & Base |
 |:----------:|
