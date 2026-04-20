@@ -8,6 +8,8 @@ My plan is as follows: The solid soap holder has channels for the water to drain
 
 As I write this, the AI embedded in my editor suggested to add a hole in the stem so I can hang it from the wall, which actually seems like a fun addition that I will not pursue.
 
+The measurements are as follows: Solid Soap Basin Bottom is 160mm diameter x 10mm height, Solid Soap Stem has 60mm radius and a height of 177mm (around 7 inches), the Solid soap holder is around 5inch by 5 inch box with a 10mm wall thickness. I measured both my liquid soap and my Zesty solid soap and these measurements have a wiggle room of about 50mm in total.
+
 ### Screenshots Below -
 
 
