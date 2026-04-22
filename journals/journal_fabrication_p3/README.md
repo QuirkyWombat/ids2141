@@ -25,23 +25,12 @@ I am happy with the outcome and I hope that it will be a conversation starter fo
 ### Screenshots of my *GENIUS* project below -
 
 
-| Solid Soap Basin | Solid Soap Basin Side View |
+| Soap Holder No Soap | Soap Holder With Soap |
 |:----------:|:----------:|
-| ![Solid soap holder from top](../../imgs/top_of_solid_soap_basin.png) |![Solid soap holder from side](../../imgs/side_of_solid_soap_basin.png) |
-
+| ![Solid soap holder](../../imgs/no_soap.jpeg) |![Solid soap holder from top](../../imgs/with_soap.jpeg) |
 
 
 <br>
-
-
-
-| Liquid Soap Stem & Base |
-|:----------:|
-| ![Liquid Soap Stem & Base Image](../../imgs/Soap_holder_stem.png) |
-
-<br>
-
-
 
 
 # THANK YOU
