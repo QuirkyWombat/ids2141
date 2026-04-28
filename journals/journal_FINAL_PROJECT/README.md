@@ -12,7 +12,7 @@
 
 <br>
 
-steps i took to complete the project:
+<b>steps I took to complete the project: </b>
 
 1. watched 100 second tutorial on unity on how to add objects, physics and rigid body
 2. import assets that i think can be cool
@@ -32,15 +32,15 @@ steps i took to complete the project:
 16. go to hub to test out movement
 
 
-	low poly arena: https://assetstore.unity.com/packages/3d/environments/fantasy/low-poly-gladiators-arena-167116
-	skeletons: https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-simple-characters-skeleton-free-demo-262897
-	other monsters: https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-duo-pbr-polyart-157762
-	pillars: https://assetstore.unity.com/packages/3d/environments/simple-modular-pillars-255707
- 	cuphead announcer voice: https://www.youtube.com/watch?v=oDuAV5u_PTk
+ #### Assets and Audio's Used - 
 
-[LINK TO CDC Article - "Antibacterial Household Products: Cause for Concern"](https://wwwnc.cdc.gov/eid/article/7/7/01-7705_article)
+[low poly arena:](https://assetstore.unity.com/packages/3d/environments/fantasy/low-poly-gladiators-arena-167116)
+[skeletons:](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-simple-characters-skeleton-free-demo-262897)
+[dual slime and turtle monsters:](https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-duo-pbr-polyart-157762)
+[pillars:](https://assetstore.unity.com/packages/3d/environments/simple-modular-pillars-255707)
+[cuphead announcer voice:](https://www.youtube.com/watch?v=oDuAV5u_PTk)
 
-### Screenshots of my *GENIUS* project below -
+### Screenshots of my *GENIUS* VR WORLD progress photos -
 
 
 | Soap Holder No Soap | Soap Holder With Soap |
