@@ -2,11 +2,15 @@
 # COLLESEUM & FIGHTERS
 
 
+
+|[Youtube Video Link](https://youtube.com/shorts/KNdkETHF-54?feature=share)|
+|:----------:|
+|[![IMAGE VIDEO WOW](../journal_FINAL_PROJECT/dee2eea7-ca24-4098-8eb6-469e611e1128.jpg)](https://youtube.com/shorts/KNdkETHF-54?feature=share) |
+
+
 <br>
 
-...
-...
-...
+FUN FUN FUN is how I would describe this project. 
 
 
 
@@ -25,30 +29,51 @@
 9. CRY? GIVEUP? DOOMSCROLL?
 10. Using and converting low poly arena, pillars, skeletons so they are not pink and scaling to desired fit
 11. After some tinkering I wanted the vibe to be a like gods watching smaller beings fight in a huge arena surrounded by an even larger world (not yet created)
-12. cuphead announcer voice.
+12. cuphead announcer voice converted youtube video to mp3 and imported into unity project
 13. spotlight on top of arena
 14. FIGURE OUT XR ORIGIN...
 15. get rest feel better
-16. go to hub to test out movement
+16. go to hub to test out project
+17. Get help from Jason at the Hub setting uo my XR origin because I was not moving
+18. Give up after 1.5 hours of trying our solution was... copy/paste the XR origin from sample scene and it worked flawlessly
+19. Classmate arrived to take video of my project
+20. DONE
 
 
  #### Assets and Audio's Used - 
 
-[low poly arena:](https://assetstore.unity.com/packages/3d/environments/fantasy/low-poly-gladiators-arena-167116)
-[skeletons:](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-simple-characters-skeleton-free-demo-262897)
-[dual slime and turtle monsters:](https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-duo-pbr-polyart-157762)
-[pillars:](https://assetstore.unity.com/packages/3d/environments/simple-modular-pillars-255707)
-[cuphead announcer voice:](https://www.youtube.com/watch?v=oDuAV5u_PTk)
+- [low poly arena](https://assetstore.unity.com/packages/3d/environments/fantasy/low-poly-gladiators-arena-167116)
+- [skeletons](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/mini-simple-characters-skeleton-free-demo-262897)
+- [dual slime and turtle monsters](https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-duo-pbr-polyart-157762)
+- [pillars](https://assetstore.unity.com/packages/3d/environments/simple-modular-pillars-255707)
+- [cuphead announcer voice](https://www.youtube.com/watch?v=oDuAV5u_PTk)
 
 ### Screenshots of my *GENIUS* VR WORLD progress photos -
 
+|Development Image 1 |
+|:----------:|
+| ![Dev Img1](../journal_FINAL_PROJECT/in_progress_pic_1.png) |
 
-| Soap Holder No Soap | Soap Holder With Soap |
-|:----------:|:----------:|
-| ![Solid soap holder](../../imgs/no_soap.jpeg) |![Solid soap holder from top](../../imgs/with_soap.jpeg) |
+|Development Image 2 |
+|:----------:|
+| ![Dev Img2](../journal_FINAL_PROJECT/spooky_scay_skeletons_2.png) |
+
+|Development Image 3 |
+|:----------:|
+| ![Dev Img3](../journal_FINAL_PROJECT/colleseum_with_walls_3.png) |
+
+|Development Image 4 |
+|:----------:|
+| ![Dev Img4](../journal_FINAL_PROJECT/bascially_done_with_scene_4.png) |
+
+|FINAL IMAGE |
+|:----------:|
+| ![Dev Img5](../journal_FINAL_PROJECT/FINAL_SCREENSHOT_in_HUB.png) |
+
 
 
 <br>
 
+[Youtube Video Link](https://youtube.com/shorts/KNdkETHF-54?feature=share)
 
 # THANK YOU
