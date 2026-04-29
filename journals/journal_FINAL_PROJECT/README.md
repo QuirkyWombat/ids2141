@@ -3,14 +3,19 @@
 
 
 
-|[Youtube Video Link](https://youtube.com/shorts/KNdkETHF-54?feature=share)|
+|[CLICK ON IMAGE OR HERE](https://youtube.com/shorts/KNdkETHF-54?feature=share)|
 |:----------:|
 |[![IMAGE VIDEO WOW](../journal_FINAL_PROJECT/dee2eea7-ca24-4098-8eb6-469e611e1128.jpg)](https://youtube.com/shorts/KNdkETHF-54?feature=share) |
 
 
 <br>
 
-FUN FUN FUN is how I would describe this project. 
+FUN FUN FUN is how I would describe this project. Unity is great and I genuinely think I have a semi-solid introductory understanding of unity, 3D modelling and development. Unity is basically a GUI for coding and even though its built in C++ and compiled in C# it reminds me a lot of python with extensive libraries and really 'plug and play' assets that speed up development by hundreds of times.
+
+I actually enjoy being thrown into the deep end and having to read documentation and watch tutorials and fail in my own way as it is a very effective way to learn. Unity makes sense once you understand the basics like mesh colliders, framing, physics, landscape, scale, and other core concepts related to animation, XR but in reality it is just another programming language with a lot of built in libraries and features that you have to be cognizant of to use.
+
+The below list is exactly and literally what I went through. All in all the entire project start to finish, with videos, troubleshooting, and submission refinement took about 10 hours, which is better than I anticipated. The overall theme is to crazy scale, rigidbody physics on some objects showcasing my *talent*, a voice announcing the fight, and lastly some characters with limited fighting animations. Thank you and I hope you enjoy the video, my photos, and my list of steps I took to complete.
+
 
 
 
